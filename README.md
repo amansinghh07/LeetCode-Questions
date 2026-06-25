@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
