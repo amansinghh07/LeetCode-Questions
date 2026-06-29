@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Stack
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
