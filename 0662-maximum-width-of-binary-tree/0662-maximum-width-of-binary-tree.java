@@ -13,96 +13,49 @@
  *     }
  * }
  */
- class Pair<K, V> {
-    private K key;
-    private V value;
-
-    public Pair(K key, V value) {
-        this.key = key;
-        this.value = value;
-    }
-
-    public K getKey() { return key; }
-    public V getValue() { return value; }
-}
-
 class Solution {
-     public int widthOfBinaryTree(TreeNode root) {
-        // If the root is null,
-        // the width is zero
-        if (root == null) {
-            return 0;
+    static class Pair<K,V>{
+        K key;
+        V value;
+        public Pair(K key,V value){
+            this.key=key;
+            this.value=value;
         }
-
-        // Initialize a variable 'ans'
-        // to store the maximum width
-        int ans = 0;
-
-        // Create a queue to perform level-order
-        // traversal, where each element is a pair
-        // of TreeNode and its position in the level
-        Queue<Pair<TreeNode, Integer>> q = new LinkedList<>();
-        // Push the root node and its
-        // position (0) into the queue
-        q.offer(new Pair<>(root, 0));
-
-        // Perform level-order traversal
-        while (!q.isEmpty()) {
-            // Get the number of
-            // nodes at the current level
-            int size = q.size();
-            // Get the position of the front
-            // node in the current level
-            int mmin = q.peek().getValue();
-            
-            // Store the first and last positions 
-            // of nodes in the current level
-            int first = 0, last = 0;
-
-            // Process each node
-            // in the current level
-            for (int i = 0; i < size; i++) {
-                // Calculate current position relative
-                // to the minimum position in the level
-                int cur_id = q.peek().getValue() - mmin;
-                // Get the current node
-                TreeNode node = q.peek().getKey();
-                // Pop the front node from the queue
+        public K getKey(){
+            return key;
+        }
+        public V getValue(){
+            return value;
+        }
+    }
+    public int widthOfBinaryTree(TreeNode root) {
+        if(root==null) return 0;
+        Queue<Pair<TreeNode,Integer>>q=new LinkedList<>();
+        q.offer(new Pair<>(root,0));
+        int ans=0;
+        while(!q.isEmpty()){
+            int size=q.size();
+            int mmin=q.peek().getValue();
+            int first=0,last=0;
+            for(int i=0;i<size;i++){
+                int currId=q.peek().getValue()-mmin;
+                TreeNode node=q.peek().getKey();
                 q.poll();
-
-                // If this is the first node in the level, 
-                // update the 'first' variable
-                if (i == 0) {
-                    first = cur_id;
+                if(i==0){
+                    first=currId;
                 }
-
-                // If this is the last node in the level,
-                // update the 'last' variable
-                if (i == size - 1) {
-                    last = cur_id;
+                if(i==size-1){
+                    last=currId;
                 }
-
-                // Enqueue the left child of the 
-                // current node with its position
-                if (node.left != null) {
-                    q.offer(new Pair<>(node.left, cur_id * 2 + 1));
+                if(node.left!=null){
+                    q.offer(new Pair<>(node.left,currId*2+1));
                 }
-
-                // Enqueue the right child of the
-                // current node with its position
-                if (node.right != null) {
-                    q.offer(new Pair<>(node.right, cur_id * 2 + 2));
+                if(node.right!=null){
+                    q.offer(new Pair<>(node.right,currId*2+2));
                 }
             }
-
-            // Update the maximum width by calculating
-            // the difference between the first and last
-            // positions, and adding 1
-            ans = Math.max(ans, last - first + 1);
+            ans=Math.max(ans,last-first+1);
         }
-
-        // Return the maximum
-        // width of the binary tree
         return ans;
     }
 }
