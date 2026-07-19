@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
