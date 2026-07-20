@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0845-longest-mountain-in-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0845-longest-mountain-in-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0733-flood-fill](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0845-longest-mountain-in-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0845-longest-mountain-in-array) |
 | [0994-rotting-oranges](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1288-remove-covered-intervals) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Sliding Window
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0165-compare-version-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0845-longest-mountain-in-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0845-longest-mountain-in-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
