@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+| [0561-array-partition](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0733-flood-fill) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0561-array-partition](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -437,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
