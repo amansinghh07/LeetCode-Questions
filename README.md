@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0179-largest-number](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0165-compare-version-numbers) |
+| [0179-largest-number](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0976-largest-perimeter-triangle](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0016-3sum-closest) |
+| [0179-largest-number](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0561-array-partition) |
