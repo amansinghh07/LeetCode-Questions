@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0016-3sum-closest) |
+| [0057-insert-interval](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
