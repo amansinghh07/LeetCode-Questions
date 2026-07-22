@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0845-longest-mountain-in-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0845-longest-mountain-in-array) |
 | [0976-largest-perimeter-triangle](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
+| [0986-interval-list-intersections](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0845-longest-mountain-in-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0845-longest-mountain-in-array) |
+| [0986-interval-list-intersections](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0986-interval-list-intersections) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
@@ -466,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0561-array-partition) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
