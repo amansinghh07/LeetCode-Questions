@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0733-flood-fill) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
