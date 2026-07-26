@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0525-contiguous-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0133-clone-graph) |
 | [0242-valid-anagram](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0525-contiguous-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
