@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0845-longest-mountain-in-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0845-longest-mountain-in-array) |
 | [0904-fruit-into-baskets](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0986-interval-list-intersections](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0994-rotting-oranges) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
