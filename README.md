@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0845-longest-mountain-in-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0845-longest-mountain-in-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0327-count-of-range-sum) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0713-subarray-product-less-than-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
