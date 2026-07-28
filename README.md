@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1288-remove-covered-intervals) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
