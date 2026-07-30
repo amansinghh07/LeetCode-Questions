@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -588,4 +592,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0327-count-of-range-sum) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 <!---LeetCode Topics End-->
