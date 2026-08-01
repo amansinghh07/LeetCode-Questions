@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Array
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0133-clone-graph) |
 | [0242-valid-anagram](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
