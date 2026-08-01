@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0133-clone-graph) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0165-compare-version-numbers) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0242-valid-anagram) |
