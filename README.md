@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0525-contiguous-array) |
+| [0567-permutation-in-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0845-longest-mountain-in-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0845-longest-mountain-in-array) |
