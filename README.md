@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0125-valid-palindrome) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
