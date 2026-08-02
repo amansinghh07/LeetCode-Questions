@@ -16,9 +16,8 @@ class Solution {
                 left++;
             }
             if(right-left+1==k){
-            if(Arrays.equals(freq,window)){
+            if(Arrays.equals(freq,window))
                 ans.add(left);
-            }
             }
             right++;
         }
