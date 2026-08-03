@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0133-clone-graph) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0165-compare-version-numbers) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
