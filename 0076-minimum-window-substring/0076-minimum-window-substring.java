@@ -6,7 +6,6 @@ class Solution {
         int left = 0, right = 0;
         int minLength = Integer.MAX_VALUE, minWindowStart = 0;
         int requiredChars = t.length();
-
         // Initialize charCount with character frequencies in string t
         for (char c : t.toCharArray()) {
             charCount.put(c, charCount.getOrDefault(c, 0) + 1);
