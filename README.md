@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0648-replace-words](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0648-replace-words) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0724-find-pivot-index) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0567-permutation-in-string) |
+| [0648-replace-words](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0567-permutation-in-string) |
+| [0648-replace-words](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0648-replace-words) |
 | [0771-jewels-and-stones](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
+| [0648-replace-words](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0648-replace-words) |
 ## Binary Search
 |  |
 | ------- |
