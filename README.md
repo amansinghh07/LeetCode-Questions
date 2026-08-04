@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
