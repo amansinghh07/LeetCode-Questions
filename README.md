@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
