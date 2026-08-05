@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
