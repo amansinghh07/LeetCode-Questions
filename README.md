@@ -790,5 +790,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
