@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0392-is-subsequence) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0038-count-and-say) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
@@ -792,4 +795,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0493-reverse-pairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
