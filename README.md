@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
+| [0980-unique-paths-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0980-unique-paths-iii) |
 | [0986-interval-list-intersections](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0733-flood-fill](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0980-unique-paths-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0980-unique-paths-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0980-unique-paths-iii) |
 | [1386-cinema-seat-allocation](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -780,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0051-n-queens) |
+| [0980-unique-paths-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0980-unique-paths-iii) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
@@ -817,4 +821,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0051-n-queens) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
