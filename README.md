@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0051-n-queens) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
