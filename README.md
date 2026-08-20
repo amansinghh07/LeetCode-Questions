@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0051-n-queens) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -789,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0079-word-search) |
@@ -830,9 +834,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0051-n-queens) |
 ## Hamiltonian Path
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0980-unique-paths-iii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
