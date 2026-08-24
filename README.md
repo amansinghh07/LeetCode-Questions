@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1872-stone-game-viii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1510-stone-game-iv) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1872-stone-game-viii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [1922-count-good-numbers](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1872-stone-game-viii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -804,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 ## String Matching
@@ -844,12 +849,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
