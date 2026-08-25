@@ -661,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
@@ -909,4 +911,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
