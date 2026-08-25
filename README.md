@@ -724,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Bit Manipulation
 |  |
 | ------- |
