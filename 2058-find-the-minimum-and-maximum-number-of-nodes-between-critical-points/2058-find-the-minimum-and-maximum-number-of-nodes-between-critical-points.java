@@ -1,0 +1,66 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+    public int[] nodesBetweenCriticalPoints(ListNode head) {
+
+        int minDistance = Integer.MAX_VALUE;
+        int maxDistance = -1;
+
+        ListNode prev = head;
+        ListNode curr = head.next;
+
+        int index = 1;
+
+        int firstCritical = -1;
+        int previousCritical = -1;
+
+        while (curr.next != null) {
+
+            ListNode next = curr.next;
+
+            // Check whether curr is a critical point
+            boolean isCritical =
+                (curr.val > prev.val && curr.val > next.val) ||
+                (curr.val < prev.val && curr.val < next.val);
+
+            if (isCritical) {
+
+                // First critical point
+                if (firstCritical == -1) {
+                    firstCritical = index;
+                } 
+                else {
+                    // Distance from previous critical point
+                    minDistance = Math.min(
+                        minDistance,
+                        index - previousCritical
+                    );
+                }
+
+                // Current becomes previous critical point
+                previousCritical = index;
+            }
+
+            prev = curr;
+            curr = next;
+            index++;
+        }
+
+        // Fewer than two critical points
+        if (firstCritical == previousCritical) {
+            return new int[]{-1, -1};
+        }
+
+        maxDistance = previousCritical - firstCritical;
+
+        return new int[]{minDistance, maxDistance};
+    }
+}
