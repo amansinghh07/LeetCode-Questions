@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Design
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0895-maximum-frequency-stack](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0901-online-stock-span) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1386-cinema-seat-allocation](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
