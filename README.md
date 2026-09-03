@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0682-baseball-game) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0394-decode-string) |
 | [0420-strong-password-checker](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0420-strong-password-checker) |
 | [0424-longest-repeating-character-replacement](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -860,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1922-count-good-numbers) |
