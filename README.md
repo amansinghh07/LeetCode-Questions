@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1670-design-front-middle-back-queue) |
 ## Queue
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1670-design-front-middle-back-queue](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1670-design-front-middle-back-queue) |
 ## Array
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1472-design-browser-history) |
 | [1552-magnetic-force-between-two-balls](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1670-design-front-middle-back-queue](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1670-design-front-middle-back-queue) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1670-design-front-middle-back-queue) |
 ## Two Pointers
 |  |
 | ------- |
@@ -783,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1670-design-front-middle-back-queue) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Bit Manipulation
@@ -984,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1670-design-front-middle-back-queue) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
