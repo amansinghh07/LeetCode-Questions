@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0165-compare-version-numbers) |
