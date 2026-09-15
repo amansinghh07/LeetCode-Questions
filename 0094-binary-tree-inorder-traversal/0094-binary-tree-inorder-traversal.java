@@ -15,14 +15,15 @@
  */
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
-      List<Integer>ans=new ArrayList<>();
-        func(root,ans);
+        List<Integer>ans=new ArrayList<>();
+        func(ans,root);
         return ans;
     }
-    private void func(TreeNode root,List<Integer>ans){
-        if(root==null) return;
-        func(root.left,ans);
+    private void func(List<Integer>ans,TreeNode root){
+        if(root==null) 
+        return;
+        func(ans,root.left);
         ans.add(root.val);
-        func(root.right,ans);
+        func(ans,root.right);
     }
 }
