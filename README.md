@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1872-stone-game-viii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [1922-count-good-numbers](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1922-count-good-numbers) |
@@ -872,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting Sort
