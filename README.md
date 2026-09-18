@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1927-sum-game](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1927-sum-game) |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
