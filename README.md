@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0845-longest-mountain-in-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0940-distinct-subsequences-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0468-validate-ip-address](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0468-validate-ip-address) |
 | [0567-permutation-in-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0648-replace-words) |
+| [0678-valid-parenthesis-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0940-distinct-subsequences-ii) |
@@ -580,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0976-largest-perimeter-triangle](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
@@ -1046,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
