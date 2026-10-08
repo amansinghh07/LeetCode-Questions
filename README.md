@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0733-flood-fill) |
@@ -1015,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0980-unique-paths-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0980-unique-paths-iii) |
 | [1096-brace-expansion-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1219-path-with-maximum-gold](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1219-path-with-maximum-gold) |
