@@ -1,19 +1,14 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-        int ans=-1;
         int n=haystack.length();
         int m=needle.length();
-        if(m>n) return ans;
-        int left=0,right=m-1;
-        while(right<n){
-            String windowStr=haystack.substring(left,right+1);
-            if(needle.equals(windowStr)){
-                return left;
-            }else{
-                left++;
-                right++;
-            }
+        for(int i=0;i<=n-m;i++){
+            int j=0;
+            while(j<m && haystack.charAt(i+j)==needle.charAt(j)){
+               j++;
+              }
+            if(j==m) return i;
         }
-        return ans;
+        return -1;
     }
 }
