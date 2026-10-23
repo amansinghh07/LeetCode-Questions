@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3913-sort-vowels-by-frequency](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3913-sort-vowels-by-frequency) |
 ## String
 |  |
 | ------- |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3913-sort-vowels-by-frequency](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3913-sort-vowels-by-frequency) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3886-sum-of-sortable-integers) |
+| [3913-sort-vowels-by-frequency](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3913-sort-vowels-by-frequency) |
 ## Data Stream
 |  |
 | ------- |
