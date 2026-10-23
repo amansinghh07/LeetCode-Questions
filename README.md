@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0480-sliding-window-median](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0567-permutation-in-string) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0420-strong-password-checker](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0420-strong-password-checker) |
+| [0480-sliding-window-median](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0480-sliding-window-median) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -1102,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0327-count-of-range-sum) |
+| [0480-sliding-window-median](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 ## Bracket Sequences
 |  |
