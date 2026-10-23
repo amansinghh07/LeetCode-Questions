@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2785-sort-vowels-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2785-sort-vowels-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
