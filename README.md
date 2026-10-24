@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2126-destroying-asteroids](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2126-destroying-asteroids](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2126-destroying-asteroids](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2785-sort-vowels-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2785-sort-vowels-in-a-string) |
