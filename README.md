@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0227-basic-calculator-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0227-basic-calculator-ii) |
 | [0486-predict-the-winner](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0509-fibonacci-number) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
