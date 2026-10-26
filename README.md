@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0053-maximum-subarray) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -1049,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
