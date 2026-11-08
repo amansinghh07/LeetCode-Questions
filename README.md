@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amansinghh07/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -852,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -944,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amansinghh07/LeetCode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amansinghh07/LeetCode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/amansinghh07/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
